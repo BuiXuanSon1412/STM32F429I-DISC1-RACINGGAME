@@ -1,5 +1,5 @@
 Application/User/generated/TypedTextDatabase.o: \
- C:/Users/asiat/Videos/SimpleRacing/SimpleRacing/TouchGFX/generated/texts/src/TypedTextDatabase.cpp \
+ C:/Users/asiat/OneDrive/Pictures/stm32f429i-disc1-racing-game/SimpleRacing/TouchGFX/generated/texts/src/TypedTextDatabase.cpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Unicode.hpp \

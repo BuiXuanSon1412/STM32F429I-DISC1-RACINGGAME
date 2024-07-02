@@ -1,5 +1,5 @@
 Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o: \
- C:/Users/asiat/Videos/SimpleRacing/SimpleRacing/TouchGFX/target/generated/TouchGFXGeneratedHAL.cpp \
+ C:/Users/asiat/OneDrive/Pictures/stm32f429i-disc1-racing-game/SimpleRacing/TouchGFX/target/generated/TouchGFXGeneratedHAL.cpp \
  ../../TouchGFX/target/generated/TouchGFXGeneratedHAL.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/HAL.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/platform/core/MCUInstrumentation.hpp \

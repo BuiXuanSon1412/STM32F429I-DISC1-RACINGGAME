@@ -1,5 +1,5 @@
 Application/User/gui/FrontendApplication.o: \
- C:/Users/asiat/Videos/SimpleRacing/SimpleRacing/TouchGFX/gui/src/common/FrontendApplication.cpp \
+ C:/Users/asiat/OneDrive/Pictures/stm32f429i-disc1-racing-game/SimpleRacing/TouchGFX/gui/src/common/FrontendApplication.cpp \
  ../../TouchGFX/gui/include/gui/common/FrontendApplication.hpp \
  ../../TouchGFX/generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/mvp/MVPApplication.hpp \

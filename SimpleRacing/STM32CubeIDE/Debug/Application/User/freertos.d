@@ -1,5 +1,5 @@
 Application/User/freertos.o: \
- C:/Users/asiat/Videos/SimpleRacing/SimpleRacing/Core/Src/freertos.c \
+ C:/Users/asiat/OneDrive/Pictures/stm32f429i-disc1-racing-game/SimpleRacing/Core/Src/freertos.c \
  ../../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
  ../../Core/Inc/FreeRTOSConfig.h \
  ../../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h \

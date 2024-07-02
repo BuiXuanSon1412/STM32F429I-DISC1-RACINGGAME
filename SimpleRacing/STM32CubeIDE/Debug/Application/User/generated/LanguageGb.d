@@ -1,5 +1,5 @@
 Application/User/generated/LanguageGb.o: \
- C:/Users/asiat/Videos/SimpleRacing/SimpleRacing/TouchGFX/generated/texts/src/LanguageGb.cpp \
+ C:/Users/asiat/OneDrive/Pictures/stm32f429i-disc1-racing-game/SimpleRacing/TouchGFX/generated/texts/src/LanguageGb.cpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Unicode.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp

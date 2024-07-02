@@ -1,5 +1,5 @@
 Application/User/generated/Table_verdana_20_4bpp.o: \
- C:/Users/asiat/Videos/SimpleRacing/SimpleRacing/TouchGFX/generated/fonts/src/Table_verdana_20_4bpp.cpp \
+ C:/Users/asiat/OneDrive/Pictures/stm32f429i-disc1-racing-game/SimpleRacing/TouchGFX/generated/fonts/src/Table_verdana_20_4bpp.cpp \
  ../../TouchGFX/generated/fonts/include/fonts/GeneratedFont.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/ConstFont.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp \
