@@ -1,2 +1,2 @@
-C:/Users/asiat/OneDrive/Pictures/stm32f429i-disc1-racing-game/SimpleRacing/TouchGFX/generated/images/src/SVGDatabase.cpp:10:27:const touchgfx::VGObject* SVGDatabase::getInstance()	0	static
-C:/Users/asiat/OneDrive/Pictures/stm32f429i-disc1-racing-game/SimpleRacing/TouchGFX/generated/images/src/SVGDatabase.cpp:15:10:uint16_t SVGDatabase::getInstanceSize()	0	static
+/home/bxs/STM32F429I-DISC1-RACINGGAME/SimpleRacing/TouchGFX/generated/images/src/SVGDatabase.cpp:10:27:const touchgfx::VGObject* SVGDatabase::getInstance()	0	static
+/home/bxs/STM32F429I-DISC1-RACINGGAME/SimpleRacing/TouchGFX/generated/images/src/SVGDatabase.cpp:15:10:uint16_t SVGDatabase::getInstanceSize()	0	static

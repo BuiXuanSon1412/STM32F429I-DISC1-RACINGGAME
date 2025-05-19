@@ -1,3 +1,3 @@
-C:/Users/asiat/OneDrive/Pictures/stm32f429i-disc1-racing-game/SimpleRacing/Core/Src/stm32f4xx_hal_timebase_tim.c:42:19:HAL_InitTick	2
-C:/Users/asiat/OneDrive/Pictures/stm32f429i-disc1-racing-game/SimpleRacing/Core/Src/stm32f4xx_hal_timebase_tim.c:95:6:HAL_SuspendTick	1
-C:/Users/asiat/OneDrive/Pictures/stm32f429i-disc1-racing-game/SimpleRacing/Core/Src/stm32f4xx_hal_timebase_tim.c:107:6:HAL_ResumeTick	1
+/home/bxs/STM32F429I-DISC1-RACINGGAME/SimpleRacing/Core/Src/stm32f4xx_hal_timebase_tim.c:42:19:HAL_InitTick	2
+/home/bxs/STM32F429I-DISC1-RACINGGAME/SimpleRacing/Core/Src/stm32f4xx_hal_timebase_tim.c:95:6:HAL_SuspendTick	1
+/home/bxs/STM32F429I-DISC1-RACINGGAME/SimpleRacing/Core/Src/stm32f4xx_hal_timebase_tim.c:107:6:HAL_ResumeTick	1
